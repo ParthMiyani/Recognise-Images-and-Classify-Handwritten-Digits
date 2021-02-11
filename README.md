@@ -2,9 +2,8 @@
 
 ### Neural Network with keras
 
-In this notebook, I use keras library to get database and serval models from kears to train code. It recognize in ten different types of images.
+In this notebook, I use Keras library to get database and serval models from Keras to train code. It recognizes ten different types of images.
 
 ### Neural Network
 
-In this, I build neural network without the keras. I use tensorflow to build and keep track of the model. It classify the handwritten digits form 0 to 9 and predict right
-number with 97.78% accuracy.
+In this, I build a neural network without the Keras. I use TensorFlow to build and keep track of the model. It classifies the handwritten digits from 0 to 9 and predicts the right number with 97.78% accuracy.
